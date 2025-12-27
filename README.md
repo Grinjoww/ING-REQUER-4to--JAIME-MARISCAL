@@ -1,4 +1,4 @@
-# Tareas--INGENIERIA-DE-REQUERIMIENTOS---A---4TO-NIVEL-
+# Tasks--REQUIREMENTS ENGINEERING---A---4TH LEVEL-
 By: Mariscal Cabrera Jaime Josué (Individual)
 
 Group project by: GRUPO B 
